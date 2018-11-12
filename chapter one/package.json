@@ -1,0 +1,11 @@
+{
+  "name": "chapter-one",
+  "version": "1.0.0",
+  "description": "这是Node.js 实战的第一章节",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
